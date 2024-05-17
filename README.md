@@ -1,8 +1,8 @@
 # MyGo
 
-Code for Learning GoLang...
+[Info] Code for Learning GoLang...
 
-NOT BanG Dream! It's MyGO!!!!!
+[Warn] NOT BanG Dream! It's MyGO!!!!!
 
-take me away! 👉😭
+[Erro] take me away! 👉😭
 
